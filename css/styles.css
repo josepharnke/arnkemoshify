@@ -594,7 +594,7 @@ a {
 /* Blocks */
 .block {
     --padding-vertical: 6rem;
-    padding: var(--padding-vertical): 3rem;
+    padding: var(--padding-vertical); 2rem;
 }
 
 .block__header {
